@@ -1,4 +1,4 @@
-# visiting-card
+# Visiting Card App 
 
 ### Application to design a Visiting Card. 
 ##### The Visiting card should have a company logo at the top right corner. 
