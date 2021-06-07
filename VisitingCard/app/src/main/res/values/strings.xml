@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Visiting Card</string>
+    <string name="employee_name">M VISHWAS KAMATH</string>
+    <string name="designation">Software Engineer</string>
+    <string name="phone">(+91) - 6362564732</string>
+    <string name="email">Email : vis@tesla.com</string>
+    <string name="fax">Fax : 9964357625</string>
+    <string name="address">Mangalore</string>
+
+
+</resources>
