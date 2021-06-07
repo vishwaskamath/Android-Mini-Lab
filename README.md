@@ -6,5 +6,5 @@
 ### Wallpaper Change app
 ### Counter app
 ### TexttoSpeech app
-### Phone call application
+### Phone call app
 
