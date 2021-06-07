@@ -1,4 +1,10 @@
-# Visiting Card App 
+# This repo contains 8 android experiments 
 
-### Application to design a Visiting Card. 
+### Visiting Card app
+### Simple Calculator app
+### Login / Signup app
+### Wallpaper Change app
+### Counter app
+### TexttoSpeech app
+### Phone call app
 
